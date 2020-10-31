@@ -1,1 +1,1 @@
-# poc
+# Spring reactive dynamodb example
